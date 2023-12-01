@@ -32,6 +32,7 @@
 #### ✍🏻 My blog posts & public projects
 
 <!-- BLOG:START -->
+- [AsIs-ToBe Configurator Tool](https://github.com/asis-tobe/asis-tobe.github.io)
 - [Conversational Bot with Mule, Slack, API.AI & NLP in Minutes!](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/conversational-bot-with-mule-slack-api-ai-nlp-in-minutes/)
 - [Encrypt Specific XML Tags With The Power Of DataWeave](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/encrypt-specific-xml-tags-with-the-power-of-dataweave/)
 - [API-led Connectivity Workshop - LeadGen Sales Activity](https://alc.workshops.mulesoft.com/alc-workshop/4.5.0/index.html)
