@@ -12,7 +12,7 @@
 @@ Fernando 'Fern' @@
 @@ AI / Tech / Gaming @@
 
-> too many hobbies (Piano, Sax, Bass, 3D Printing, RPi Tinkering, Gaming, Automobilia); 
+> too many hobbies (Piano, 3D Printing, RPi Tinkering, Gaming, Automobilia); 
 > introvert but somehow love sales;
 > could talk all things tech & cars all day;
 > hardcore gamer, singleplayer and MMORPGs
