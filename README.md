@@ -36,8 +36,9 @@
 - [Encrypt Specific XML Tags With The Power Of DataWeave](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/encrypt-specific-xml-tags-with-the-power-of-dataweave/)
 <!-- BLOG:END -->
 
-#### 📺 Videos and Speaker Sessions
+#### 📺 Videos and Events
 
 <!-- YOUTUBE:START -->
 - [PLNOG23 - Monitoring Microservices in Real-Time - Public Session & Demo](https://www.youtube.com/watch?v=5njiVy7Fupc&t=655s)
+- [Macmillan Cancer Research Support Gaming 24h Marathon](https://www.justgiving.com/fundraising/fernando-melone-gameheroes)
 <!-- YOUTUBE:END -->
